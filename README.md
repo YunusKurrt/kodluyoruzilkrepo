@@ -26,7 +26,9 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## **License**
 
-MIT
+[MIT](https://opensource.org/licenses/MIT)
+
+
 
 
 ![Kodluyoruz](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
